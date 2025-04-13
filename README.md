@@ -1,8 +1,8 @@
 
 
 <p align="center">
-  <a href="https://github.com/ELJoOker2004">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Youssef;Welcome+to+my+git+profile+%F0%9F%98%8A" alt="Typing SVG"/>
+  <a href="https://github.com/Amreid011">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Amr+Eid;Welcome+to+my+git+profile+%F0%9F%98%8A" alt="Typing SVG"/>
   </a>
 </p>
 
