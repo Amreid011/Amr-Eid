@@ -63,7 +63,7 @@ Eager to absorb knowledge 💡, I enjoy diving into new tech and using it to sol
 
   </h1>
   
-[![Discord Presence](https://lanyard.cnrad.dev/api/605894319408283678?&bg=00000000)]([https://discord.com/users/605894319408283678](https://discords.com/bio/p/Amr-Eid)) <img src="https://github.com/ELJoOker2004/Amr-Eid/assets/62572632/8f29c932-fd91-46e8-a984-60142a99f5b5" width="350" align="right">
+[![Discord Presence](https://lanyard.cnrad.dev/api/605894319408283678?&bg=00000000)]([https://discord.com/users/605894319408283678](https://discords.com/bio/p/Amr-Eid)) <img src="https://github.com/Amreid011" width="350" align="right">
 
 <!-- ![cool readme](https://github-readme-stats.vercel.app/api?username=ELJoOker2004&count_private=true&show_icons=true&theme=radical)
 
